@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("this is devops frist project ");
+  res.send("this is first devops project made by mayur ");
 });
 
 app.listen(8000, () => {
