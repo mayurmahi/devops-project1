@@ -13,3 +13,5 @@ spec:
       nodePort: 30007
 
 # docker push mayurmahi3838/node-app:v2
+# minikube service node-service
+#docker build -t mayurmahi3838/node-app
